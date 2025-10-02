@@ -35,7 +35,7 @@ At this point following services would be up and running:
 
 ### Demo
 
-[Watch The Demo Video](https://imgur.com/I6KgmNR)
+[Watch The Demo Video](https://drive.google.com/file/d/1_2nu2ii1lXl3bW012Mr3KWMjW8hr6VBy/view?usp=sharing)
 
 ### Architecture
 
